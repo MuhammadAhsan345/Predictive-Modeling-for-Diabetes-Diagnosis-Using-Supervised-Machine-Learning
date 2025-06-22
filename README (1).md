@@ -89,13 +89,4 @@ Top contributing features to diabetes prediction (from Random Forest importance 
 
 ## 📄 License
 
-This project is open-source and free to use under the MIT License.
-
----
-
-## 📬 Contact
-
-For questions or collaboration:  
-**Muhammad Waseem**  
-📧 mwaseem@example.com (replace with real email)  
-🔗 GitHub: [github.com/your-username](https://github.com/your-username)
+This project is open-source and free to use.
